@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "116510620463",
+    "project_id": "creative-promotion",
+    "storage_bucket": "creative-promotion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116510620463:android:01e21cc424c72e10637fda",
+        "android_client_info": {
+          "package_name": "com.sapphire.creativepromotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116510620463-pff5v5j9rg809p4c3tsade07k94dip2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sapphire.creativepromotion",
+            "certificate_hash": "50c25e0692abf4778c1be51503ff00048e8b9c55"
+          }
+        },
+        {
+          "client_id": "116510620463-oea2ufm7ifane47m5kc84b9a7pkcnv90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2eHVp9OfZPW_CAL1moYHHNysc9r0_IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116510620463-oea2ufm7ifane47m5kc84b9a7pkcnv90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116510620463-hdp0f52ln38q7voqnjqgvgfm5c0ig4c9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sapphire.creativepromotion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
